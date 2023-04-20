@@ -20,4 +20,5 @@
 
 .highlight {
     box-shadow: 0 0 10px rgba(130, 95, 95, 0.967);
+    border-radius: 0.33em;
 }
